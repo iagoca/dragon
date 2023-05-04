@@ -1,30 +1,16 @@
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/AlipBot" width="200" height="200"/>
-</p>
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+Rest+Api+AlpisV2+" alt="">
-</p>
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AlipBot-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/AlipBot?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AlipBot/Api-Alpis?color=white&style=flat-square"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AlipBot/Api-Alpis?color=yellow&style=flat-square"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AlipBot/Api-Alpis?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/AlipBot/Api-Alpis"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlipBot%2FApi-Alpis%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/AlipBot/Api-Alpis/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
-</p>
+ >
+< a  href = " https://github.com/AlipBot/Api-Alpis/ " >< img  title = "Tamanho"  src = " https://img.shields.io/github/repo-size/AlipBot/Api -Alpis?style=flat-square&color=darkred " ></ a >
+< a  href = " https://hits.seeyoufarm.com " >< img  src = " https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub .com%2FAlipBot%2FApi-Alpis%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false" / > < / a >
+< um  href = " https://github.com/AlipBot/Api-Alpis/graphs/commit-activity " >< img  height = "20"  src = " https://img.shields.io/badge/Maintained- No-red.svg " ></ a >   
+</p> _ _
 
 
-* # TUTORIAL 📌
+* #TUTORIAL 📌
 
 
-* ## STEP 1
-Forks Github Ini Klick Di Bawah
+* ## PASSO 1
+Forks Github Ini Clique Di Bawah
 
 [![Fork](https://telegra.ph/file/0ac5b4f21a7c153f3bfc7.png)](https://github.com/AlipBot/api-alpis/fork)
 
@@ -32,13 +18,13 @@ Forks Github Ini Klick Di Bawah
 * ## STEP 2
 Buat Account Mongodb Dan Buat Database Klick Di Bawah
 
-[![Deploy to Render](https://telegra.ph/file/1bc5c9749e8a46d167619.png)](https://www.mongodb.com/cloud/atlas/register)
+[ ! [Deploy to Render] (https://telegra.ph/file/1bc5c9749e8a46d167619.png) ] (https://www.mongodb.com/cloud/atlas/register)
 
-* ## STEP 3
+* ## ETAPA 3 Ver mais
 
-Buat Email SMTP
+Mas Email SMTP
 
- [`Tutorial Cara buat Email SMTP FREE Click ME`](https://www.youtube.com/watch?v=1YXVdyVuFGA)<br>
+ [ `Tutorial Cara buat Email SMTP GRÁTIS Click ME` ] (https://www.youtube.com/watch?v=1YXVdyVuFGA) < br >
 
 * ## STEP 4
 
@@ -157,16 +143,16 @@ File Setting ``setting.js``
 
 * ## Support Deploy Free
 <a href="https://replit.com/@BOT-SKYLARKSKYL/Api-Alpis-in-replit?v=1"><img src="https://telegra.ph/file/8d225f38ce1920182e313.png" width="300" height="200">
-<a href="https://dashboard.render.com"><img src="https://telegra.ph/file/6125fb68b97cdd156fc67.png" width="400" height="200">
+ " https://dashboard.render.com " >< img  src = " https://telegra.ph/file/6125fb6dd156fc67.png "  largura = "400"  altura = "200" >
 
 
 
 ## ``Credit 💳 Script``
 
-<img src="https://avatars.githubusercontent.com/AlipBot" width="200" height="200">
+< img   = " https://avatars.githubusercontent.com/AlipBot "  largura = "200"  altura = "200" >
 
 [`AlipBot`](https://github.com/AlipBot)<br>
 
 <img src="https://telegra.ph/file/1cbc7e659b35a053bf25f.png" width="150" height="150">
 
-``Halal Rest API``
+
